@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="iciql-1.6.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/iciql-1.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
